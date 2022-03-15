@@ -1,1 +1,1 @@
-echo "I am saying Hello from Custom github action"
+echo "I am saying Hello from Custom github action" 
