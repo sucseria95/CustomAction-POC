@@ -4,6 +4,6 @@ description: 'Greet someone'
 runs:
   using: "composite"
   steps:
-    - run: hello.sh
-      shell: bash
+    - run: ./hello.sh
+      
     
