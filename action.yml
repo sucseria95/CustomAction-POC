@@ -1,0 +1,9 @@
+name: 'Hello World'
+description: 'Greet someone'
+
+runs:
+  using: "composite"
+  steps:
+    - run: echo Hello From Custom Action repo.
+      shell: bash
+    
